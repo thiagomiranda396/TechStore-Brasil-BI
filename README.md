@@ -103,14 +103,12 @@ O objetivo é demonstrar, de forma prática, conhecimentos em:
 ```text
 TechStore-Brasil-BI/
 │
-├── dashboard.png
-│
-├── Power BI/
-│ └── TechStore_Brasil.pbix
-│
 ├── PostgreSQL/
 │ ├── criacao_tabelas.sql
 │ ├── insercao_dados.sql
 │ └── views.sql
 │
-└── README.md
+├── Modelagem_BRModelo.png
+├── README.md
+├── TECHSTORE_VENDAS.pbix
+└── dashboard.png
